@@ -20,7 +20,8 @@ Here we can see several interesting datapoints, firstly noting that gaming (and 
 In conclusion, gaming is absolutely the selling point of the Washoe Valley area, incentivizing local businesses to ensure gambling plays a part in there overall business plan if they wish to ensure their success and a larger piece of the proverbial pie.
 
 ## Repository Structure
-
+```
 ├── .gitignore
 ├── README.md
 └── washoe_toursim_impact_nb.ipynb
+```
